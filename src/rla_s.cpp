@@ -284,7 +284,7 @@ int main(int argc, char** argv) {
 	clock_t currTS_p0	= clock();
 
 	// Set the path to the data files
-	string filePath = "/Users/joyanta/Documents/Research/Record_Linkage/codes/my_codes/ds_single_datasets/";
+	string filePath = "./data/";
 	// string filePath = "/home/joyanta/Documents/Research/Record_Linkage/codes/my_codes/ds_single_datasets/";
 
 
